@@ -54,6 +54,11 @@ Install the Company Portal app on your device:
 4.  Tap **Company Portal**  &gt; **Install**.
 
     ![Install company portal](./media/WP81-2-CP-install-v2.png)
+    
+    NOTE: 1.	Support officially ended Oct 2017 for device updates (security, OS upgrade, etc)
+2.	New app ingestion ended Oct 2018
+3.	WP8 store services end date is August 2019. Please set expectations that there will be very reduced / diminished services; the expectation for customers is that they will only be able to re-acquire content they have previously purchased. There will no longer be an actual WP8 “app store”. Guidance should be to get on a new/different device…
+
 
 Enroll your device:
 
